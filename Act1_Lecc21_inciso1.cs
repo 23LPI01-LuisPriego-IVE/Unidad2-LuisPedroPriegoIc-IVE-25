@@ -11,7 +11,7 @@
 
         if (dia == 1)
         {
-            Console.WriteLine("Hoy es Lune");
+            Console.WriteLine("Hoy es Lunes");
         }
         else
         {
